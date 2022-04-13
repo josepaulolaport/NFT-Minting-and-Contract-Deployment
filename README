@@ -1,7 +1,7 @@
 
 Fill in .env file in root directory
 Fill in contract address in mint-nft.js with contract address after deployment
-Replace "image" with IPFS URI (IPFS or Pinata) in example-metadata.json
+Replace "image: XXXXXX" with IPFS URI (IPFS or Pinata) in example-metadata.json
 Replace mintNft parameter with metadata.json pin URL(IPFS or Pinata) in mint-nft.js
 
 install --save-dev hardhat
