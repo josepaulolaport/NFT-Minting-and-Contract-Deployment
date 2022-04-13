@@ -1,0 +1,37 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Zepa"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "blue"
+      },
+
+      {
+        "trait_type": "Nose",
+        "value": "big"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "serious"
+      },
+      {
+        "trait_type": "acessory",
+        "value": "round glasses"
+      },
+      {
+        "trait_type": "jewelry",
+        "value": "necklace"
+      },
+      {
+        "trait_type": "shirt",
+        "value": "flowers"
+      }
+    ],
+    "description": "A zepa in the testnet",
+    "image": "ipfs://QmYzkGdhHtHmkYmeSDNDGmJ8j5yYCZdBWzNtReqWa7BVqq",
+    "name": "Zepa"
+  }
+  
